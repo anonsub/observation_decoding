@@ -1,3 +1,3 @@
 # Observation Decoding
 
-Running the experiments requires installing [this](github.com/daineto/meta-planning) library.
+Running the experiments requires installing [this](https://github.com/daineto/meta-planning) library.
