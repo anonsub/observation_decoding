@@ -1,0 +1,6 @@
+0 : (recon scorpio)
+1 : (break-into scorpio)
+2 : (gain-root scorpio)
+3 : (clean-as-root scorpio)
+4 : (modify-files-as-root scorpio)
+5 : (vandalize-as-root scorpio)

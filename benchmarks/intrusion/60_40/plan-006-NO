@@ -1,0 +1,6 @@
+0 : (recon andromeda)
+1 : (break-into andromeda)
+2 : (gain-root andromeda)
+3 : (modify-files-as-root andromeda)
+4 : (recon andromeda)
+5 : (recon andromeda)

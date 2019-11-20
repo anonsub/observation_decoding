@@ -1,0 +1,6 @@
+0 : (recon perseus)
+1 : (break-into perseus)
+2 : (recon perseus)
+3 : (clean perseus)
+4 : (modify-files perseus)
+5 : (vandalize perseus)

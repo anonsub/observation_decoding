@@ -1,0 +1,6 @@
+0 : (recon cassiopea)
+1 : (break-into cassiopea)
+2 : (gain-root cassiopea)
+3 : (modify-files-as-root cassiopea)
+4 : (clean-as-root cassiopea)
+5 : (information-gathering cassiopea)

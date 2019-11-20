@@ -1,0 +1,6 @@
+0 : (recon taurus)
+1 : (break-into taurus)
+2 : (recon taurus)
+3 : (clean taurus)
+4 : (modify-files taurus)
+5 : (vandalize taurus)

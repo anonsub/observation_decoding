@@ -1,0 +1,6 @@
+0 : (recon taurus)
+1 : (break-into taurus)
+2 : (gain-root taurus)
+3 : (modify-files-as-root taurus)
+4 : (clean-as-root taurus)
+5 : (modify-files taurus)

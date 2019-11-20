@@ -1,0 +1,6 @@
+0 : (recon leo)
+1 : (break-into leo)
+2 : (gain-root leo)
+3 : (clean-as-root leo)
+4 : (modify-files-as-root leo)
+5 : (vandalize-as-root leo)

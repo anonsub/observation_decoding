@@ -1,0 +1,6 @@
+0 : (recon sagittarius)
+1 : (break-into sagittarius)
+2 : (gain-root sagittarius)
+3 : (modify-files-as-root sagittarius)
+4 : (clean-as-root sagittarius)
+5 : (vandalize-as-root sagittarius)

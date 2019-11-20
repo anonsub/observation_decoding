@@ -1,0 +1,6 @@
+0 : (recon taurus)
+1 : (recon taurus)
+2 : (break-into taurus)
+3 : (download-files taurus)
+4 : (clean taurus)
+5 : (steal-data taurus)

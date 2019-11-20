@@ -1,0 +1,6 @@
+0 : (recon libra)
+1 : (break-into libra)
+2 : (gain-root libra)
+3 : (clean-as-root libra)
+4 : (information-gathering libra)
+5 : (download-files-as-root libra)

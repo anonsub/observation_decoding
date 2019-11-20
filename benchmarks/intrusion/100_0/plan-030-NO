@@ -1,0 +1,6 @@
+0 : (recon cassiopea)
+1 : (break-into cassiopea)
+2 : (recon cassiopea)
+3 : (download-files cassiopea)
+4 : (clean cassiopea)
+5 : (steal-data cassiopea)

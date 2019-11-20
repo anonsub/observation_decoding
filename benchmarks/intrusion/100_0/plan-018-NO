@@ -1,0 +1,6 @@
+0 : (recon sagittarius)
+1 : (break-into sagittarius)
+2 : (recon sagittarius)
+3 : (download-files sagittarius)
+4 : (clean sagittarius)
+5 : (steal-data sagittarius)

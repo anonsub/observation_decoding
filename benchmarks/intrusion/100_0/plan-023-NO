@@ -1,0 +1,6 @@
+0 : (recon andromeda)
+1 : (break-into andromeda)
+2 : (recon andromeda)
+3 : (clean andromeda)
+4 : (modify-files andromeda)
+5 : (vandalize andromeda)

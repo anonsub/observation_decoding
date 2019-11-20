@@ -1,0 +1,6 @@
+0 : (recon scorpio)
+1 : (break-into scorpio)
+2 : (recon scorpio)
+3 : (download-files scorpio)
+4 : (clean scorpio)
+5 : (steal-data scorpio)
